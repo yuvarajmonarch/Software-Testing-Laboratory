@@ -1,17 +1,19 @@
-# Ex.No: 1  Implementation of Breadth First Search 
+# Ex.No: 10  Pytest program for Sum of digits
+
 ### DATE:                                                                            
 ### REGISTER NUMBER : 
-### AIM: 
-To write a python program to implement Breadth first Search. 
+### AIM: To write a python program for Fibonacci Series and generate test cases using Pytest. 
+
 ### Algorithm:
-1. Start the program
-2. Create the graph by using adjacency list representation
-3. Define a function bfs and take the set â€œvisitedâ€ is empty and â€œqueueâ€ is empty
-4. Search start with initial node and add the node to visited and queue.
-5. For each neighbor node, check node is not in visited then add node to visited and queue list.
-6.  Creating loop to print the visited node.
-7.   Call the bfs function by passing arguments visited, graph and starting node.
-8.   Stop the program.
+
+1. Write the python program for Fibonacci Series. 
+2. Make sure that function name should be “def test_*():” and the line to be tested 
+should have assert keyword at the beginning. 
+3. Write some test cases for to be tested and save it as “test_fib.py”. 
+4. Open command prompt and change the directory to where pytest and program is 
+saved and type “pytest test_fib.py” and run it. 
+5. Stop the program.
+
 ### Program:
 
 
@@ -30,3 +32,6 @@ To write a python program to implement Breadth first Search.
 
 
 ### Result:
+Thus, the python program for Fibonacci Series is tested using pytest and executed and output is verified successfully.
+
+
