@@ -1,4 +1,4 @@
-# Ex.No: 1  check the given number is Armstrong number or not and inspect for failures.
+# Ex.No: 4 check the given number is Armstrong number or not and inspect for failures.
 ### DATE:                                                                            
 ### REGISTER NUMBER : 
 ### AIM: 
