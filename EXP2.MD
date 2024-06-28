@@ -1,4 +1,4 @@
-# Ex.No: 1   Matrix Multiplication 
+# Ex.No: 2   Matrix Multiplication 
 
 ### DATE:                                                                            
 ### REGISTER NUMBER : 
