@@ -1,4 +1,4 @@
-# Ex.No: 1 To check the number is prime or not and inspect for failures.
+# Ex.No: 3 To check the number is prime or not and inspect for failures.
  
 ### DATE:                                                                            
 ### REGISTER NUMBER : 
