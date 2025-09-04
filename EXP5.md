@@ -1,6 +1,6 @@
 ### Ex.No: 5 check the given number is present in array or not and inspect for failures.
-### NAME: GOKULA PRIYA P
-### REG NO: 212222040044
+### NAME: YUVARAJ B
+### REG NO: 212222040186
 ### AIM: 
 Write a python program to check the number is Armstrong number or not and inspect for failures.
 
@@ -55,7 +55,7 @@ except ValueError:
 ```
 
 ### Output:
-![STL5](https://github.com/user-attachments/assets/f1466d96-f522-46b2-a765-49643d8a29d1)
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/6d899f19-cb88-487f-a9d9-5c60bfe6529d" />
 
 
 
