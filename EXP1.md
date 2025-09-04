@@ -86,19 +86,19 @@ iterate()
 ```
 ### Output:
 ### Do While
-<img width="430" height="170" alt="image" src="https://github.com/user-attachments/assets/6f75dd75-56e3-4c9f-872e-cc06b06c04a1" />
+<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/5e26c7bd-44dd-4277-957a-20add7280ff7" />
 
 ### While
-<img width="330" height="247" alt="image" src="https://github.com/user-attachments/assets/c59c04aa-108d-47f1-a3fd-af7c6a99fca3" />
+<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/5a960f30-85a1-41d6-8233-4140b9be8f3b" />
 
 ### Switch
-<img width="312" height="147" alt="image" src="https://github.com/user-attachments/assets/fba86a5a-9048-4141-806c-7fee2dcddf6f" />
+<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/2fb7889b-1c42-434a-ade5-11b87e140033" />
 
 ### If Else
-<img width="301" height="161" alt="image" src="https://github.com/user-attachments/assets/8469c712-f82d-4f93-9769-8f43b62c5dd6" />
+<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/ff2e2168-9b74-49ed-9d67-63c85e680370" />
 
 ### For
-<img width="297" height="122" alt="image" src="https://github.com/user-attachments/assets/f324141c-bc47-466a-befb-e4e5d14f6084" />
+<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/f1e92f4a-3a0c-4617-8e7b-c73469a12926" />
 
 ### Result:
 Thus, the python program to demonstrate the working of given constructs is implemented and the output is verified successfully.
