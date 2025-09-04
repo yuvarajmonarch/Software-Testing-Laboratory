@@ -77,7 +77,7 @@ else:
     print("Enter valid numbers for rows and columns.")
 ```
 ### Output:
-<img width="393" height="421" alt="image" src="https://github.com/user-attachments/assets/a7d7d7a0-599f-4ece-a746-0f66a3d48944" />
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/cf16305a-aeea-4983-890a-cd51c98fa5cd" />
 
 
 ### Result:
