@@ -1,4 +1,4 @@
-### Ex.No: 5 check the given number is present in array or not and inspect for failures.
+# Ex.No: 5 check the given number is present in array or not and inspect for failures.
 ### NAME: YUVARAJ B
 ### REG NO: 212222040186
 ### AIM: 
