@@ -40,7 +40,7 @@ else:
 
 ### Output:
 
-![STL4](https://github.com/user-attachments/assets/e51cf9ab-9dcf-40d8-a1d0-c0b43912845f)
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/3557ebd7-9a17-49ae-8f7d-5104a84952a6" />
 
 
 
