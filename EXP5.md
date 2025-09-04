@@ -60,5 +60,5 @@ except ValueError:
 
 
 ### Result:
-Thus, the python program to Check the given number is present in array or not and inspect for failures.
+Thus, the python program to Check the given number is present in array or not and inspect for failures has been verified successfully.
 
